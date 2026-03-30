@@ -1,8 +1,8 @@
-# GreenCity QA Testing Project
+# GreenCity QA Test Сases
 
 # Project Description
 
-This project contains a suite of test cases designed to verify the functionality of the "Events" module and the registration process on the GreenCity platform. The primary focus is on form validation, event participation logic, and verifying interaction constraints (such as likes and dislikes).
+This project contains a suite of test cases designed to verify the functionality of the "Events" module. The primary focus is on form validation, event participation logic, and verifying interaction (likes and dislikes).
 
 # Link to the Tested Page
 
