@@ -6,4 +6,4 @@ This project contains a suite of test cases designed to verify the functionality
 
 # Link to the Tested Page
 
-3 test cases for https://www.greencity.cx.ua/#/greenCity/events
+https://www.greencity.cx.ua/#/greenCity/events
