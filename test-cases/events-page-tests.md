@@ -45,5 +45,5 @@
 | :---- | :---- | :---- | :---- |
 | 1 | Click the "Like" icon on an event card | \- | The like counter increases by 1\. |
 | 2 | Click the "Like" icon again on the same event card | \- | The system should either toggle (remove like) or restrict further likes. |
-| 3 | Rapidly click "Like" and "Dislike" multiple times | \- | **Unsuccessful:** The system should not allow infinite clicking/spamming; the counter should stay consistent. |
+| 3 | Rapidly click "Like" and "Dislike" multiple times | \- | The system should not allow infinite clicking/spamming; the counter should stay consistent. |
 
