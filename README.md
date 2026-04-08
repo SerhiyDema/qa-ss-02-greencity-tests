@@ -7,3 +7,9 @@ This project contains a suite of test cases designed to verify the functionality
 # Link to the Tested Page
 
 https://www.greencity.cx.ua/#/greenCity/events
+
+# How to start tests:
+
+python -m unittest discover tests
+
+
